@@ -1,7 +1,5 @@
 <!-- Optional banner -->
-![Syrine Khazri Banner](https://your-banner-image-link-here)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 <h2 align="left">Hi, I'm Syrine Khazri</h2>
 
 ### 👩🏻‍💻 &nbsp;About Me
